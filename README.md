@@ -26,8 +26,8 @@ I am a developer who is passionate about technology. Few tech that I enjoy worki
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jeanpdt&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpdt&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jeanrsantos&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrsantos&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
