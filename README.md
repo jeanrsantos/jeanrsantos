@@ -10,7 +10,7 @@ I am a developer who is passionate about technology. Few tech that I enjoy worki
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://jeanpdt.github.io/portifolio/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://jeanrsantos.github.io/portifolio/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeansantospdt/)
 
 
