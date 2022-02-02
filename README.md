@@ -3,7 +3,7 @@
 I am a developer who is passionate about technology. Few tech that I enjoy working in are Laravel, Vue.js, Java, JavaScript, HTML, CSS and Heroku. 
 
 - 👨🏽‍💻 Currently working with Laravel.
-- 🌐 Visit my [porfolio website](https://jeanpdt.github.io/portifolio/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://jeanrsantos.github.io/portifolio/) for complete background and contact.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
