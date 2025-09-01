@@ -3,9 +3,6 @@
 Desenvolvedor de Software Sênior com 5 anos de experiência, apaixonado por criar soluções web robustas e escaláveis.
 
 Meu foco principal atualmente é o ecossistema **Java**, especialmente com **Spring Framework**, construindo microsserviços e APIs de alta performance. Também possuo sólida experiência em **PHP** com **Laravel** e **JavaScript** com **Vue.js**.
-
-- 👨‍💻 Atualmente focado em aprimorar minhas habilidades no ecossistema Java (Spring Boot) e arquiteturas de microsserviços.
-- 🌱 Buscando novos desafios para aplicar e expandir meu conhecimento em desenvolvimento backend.
   
 ---
 
