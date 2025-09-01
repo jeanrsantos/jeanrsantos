@@ -58,9 +58,6 @@ Meu foco principal atualmente é o ecossistema **Java**, especialmente com **Spr
 <details open>
 <summary>🤝 <b>Conecte-se comigo</b></summary>
 <p align="center">
-  <a href="https://jeanrsantos.github.io/portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/jeansantospdt/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
