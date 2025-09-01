@@ -36,6 +36,7 @@ Meu foco principal atualmente é o ecossistema **Java**, especialmente com **Spr
       <strong>Bancos de Dados</strong>
       <ul>
         <li>PostgreSQL</li>
+        <li>OracleDB</li>
         <li>MySQL</li>
         <li>MongoDB</li>
       </ul>
