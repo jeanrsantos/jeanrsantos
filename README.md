@@ -6,8 +6,7 @@ Meu foco principal atualmente é o ecossistema **Java**, especialmente com **Spr
 
 - 👨‍💻 Atualmente focado em aprimorar minhas habilidades no ecossistema Java (Spring Boot) e arquiteturas de microsserviços.
 - 🌱 Buscando novos desafios para aplicar e expandir meu conhecimento em desenvolvimento backend.
-- 🌐 Visite meu [website/portfólio](https'://jeanrsantos.github.io/portifolio/) para mais detalhes.
-
+  
 ---
 
 ### 💻 Tecnologias e Ferramentas
